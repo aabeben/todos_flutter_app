@@ -1,6 +1,6 @@
 # todos_app
 
-A new Flutter project.
+This repo was based on youtube channel named hey-lets-code.
 
 ## Getting Started
 
